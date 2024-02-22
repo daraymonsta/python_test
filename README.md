@@ -10,3 +10,5 @@ print("hello")
 ```
 
 Wanted to see what happens if I modify this file.
+
+Now I want a different line for commit no. 2
