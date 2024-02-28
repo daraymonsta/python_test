@@ -9,4 +9,8 @@ This is a section of multi-line code:
 print("hello")
 ```
 
+1. Open the fridge
+2. Get out the cheese
+   * Make sure it's Cheddar
+
 Wanted to see what happens if I modify this file.
